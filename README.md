@@ -1,2 +1,0 @@
-# dinerazo
-Dinerazo Oy
